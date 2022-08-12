@@ -1,0 +1,24 @@
+p,
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#my-profile-pic {
+    width: 200px;
+}
+
+.my-title,
+.my-year {
+    font-style: italic;
+}
+
+.my-field {
+    font-weight: bold;
+}
+
+ 
